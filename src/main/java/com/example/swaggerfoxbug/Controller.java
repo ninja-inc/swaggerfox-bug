@@ -1,6 +1,5 @@
 package com.example.swaggerfoxbug;
 
-import com.sun.xml.internal.ws.client.sei.ResponseBuilder;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
