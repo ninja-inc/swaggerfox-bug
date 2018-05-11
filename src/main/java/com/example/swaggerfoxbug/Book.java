@@ -7,7 +7,7 @@ public class Book {
 	private Desc desc;
 
 	@Data
-	public static class Desc {
+	public class Desc {
 		private String i_am_book_inner_class;
 	}
 }
